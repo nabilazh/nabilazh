@@ -1,6 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+[![MasterHead](https://camo.githubusercontent.com/c8626937d147ba7805f0989930848b2065807daae2202356d7201a9246c30b51/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966)]
 <h1 align="center">Hi 👋, I'm Nabila Aulia Azzahra</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabilazh&label=Profile%20views&color=0e75b6&style=flat" alt="nabilazh" /> </p>
 
