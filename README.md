@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nabila.nl276@gmail.com**
 
-- 📄 Know about my experiences [I studied as a full-stack web developer at Rakamin Academy](I studied as a full-stack web developer at Rakamin Academy)
+- 📄 Know about my experiences I studied as a full-stack web developer at Rakamin Academy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
